@@ -10,7 +10,7 @@
 
 <h3>Summary background</h3>
 
-<p>I am a motivated and detail-oriented Python Developer with a background in Content Creation and experience working in a Library for the Blind. I have strong soft skills and a basic knowledge of no-code development and design.  I am passionate about using Python programming to analyze and make sense of complex data sets. I am on track with comprehensive bootcamp courses in Python and Data Science, where I am gaining experience in data analysis, visualization, and basic machine learning techniques.</p> <br>
+<p>I am a motivated and detail-oriented Python Developer with a background in Content Creation and experience working in a Library for the Blind. I am passionate about using Python programming to analyze and make sense of complex data sets. I am on track with comprehensive bootcamp courses in Python and Data Science, where I am gaining experience in data analysis, visualization, and basic machine learning techniques.</p> <br>
 
 <p>My previous experience in a Library for the Blind and Art Therapy Degree help me to better understand the variety of people's needs which is necessary for a developer. Also the background proved that I am a highly analytical, dependable person with compassion and problem-solving skills. My Producer and Content Creating experience taught me how to think critically, find a personal approach to different people, think outside the box, learn fast and easily adjust to new environments. </p> <br>
 <p>I am particularly interested in applying my skills in understanding and evaluating sustainability issues, such as analyzing data on energy usage or researching the environmental impact of different materials.</p>
@@ -21,6 +21,8 @@
 <ul>
   <li><a href="https://www.udemy.com/course/100-days-of-code">
       The Complete Python Pro Bootcamp for 2023</a> by the App Brewery</li>
+    <li><a href="https://training.epam.com/Training/Details/3493?lang=en">
+      Data Engineering</a> by EPAM University Program</li>
   <li><a href="https://www.coursera.org/learn/sql-for-data-science">
   SQL for Data Science</a> by the University of California, Davis</li>
   <li><a href="https://www.coursera.org/account/accomplishments/certificate/UUDKHLZPKKJZ">
@@ -35,11 +37,11 @@
 <h3>Technical skills</h3>
 
 <ul>
-   <li>Python programming (APIs, OOP, GUIs, Tkinter, JSON, BeautifulSoup, Selenium WebDriver)</li>
+   <li>Python programming (APIs, REST API, OOP, GUIs, Tkinter, JSON, BeautifulSoup, Selenium WebDriver)</li>
+   <li>Flask framework (Jinja, Flask WTF + Bootstrap)</li>
+   <li>Data Science and basic Machine Learning (SQLAlchemy, SQL, SQLite, NumPy, Pandas, Scikit Learn, Plotly, and Matplotlib)</li>
+    <li>Data Visualization and Analysis (Power BI, Tableau)</li>
    <li>Beginner-level frontend (HTML, CSS, basic JavaScript) </li>
-   <li>Learning Django and Flask frameworks</li>
-   <li>Data Science and basic Machine Learning (SQL, SQLite, NumPy, Pandas, Scikit Learn, Plotly, and Matplotlib)</li>
-   <li>No-Code development platforms (Bubble, Adalo)</li>
    <li>Design tools (Figma, Canva)</li>
 </ul>
 
@@ -55,16 +57,19 @@
 <h3>Projects</h3>
 <p>During my current Python bootcamp I created a few learning projects:</p>
 <ul>
+     <li><a href="https://github.com/ksyuzi/flight_deals](https://github.com/ksyuzi/top-movies-project">
+         A Web App with user’s top films</a></li>
    <li><a href="https://github.com/ksyuzi/flight_deals">
          Flight prices tracker with email and SMS notifications</a></li>
    <li><a href="https://github.com/ksyuzi/flash_cards">
          Learning French with Flashcards</a></li>
    <li>Quizzes and flashcards</li>
    <li>Simple games</li>
+  <li>Bots</li>
 </ul>
 
 <h3>Work experience</h3>
-<p>Even though my previous work experience is not related to web development, I would like to highlight my transferable skills.</p>
+<p> I would also like to highlight my transferable skills.</p>
 <ol>
    <li>Endorsed communication skills from working in Library for the blind, where I assisted customers with varying needs and abilities, managed the library catalog system, managed library’s social media accounts.</li>
    <li>Attention to detail from content creation, where I created and managed different types of content in two languages (English and Russian).</li>
@@ -75,6 +80,8 @@
 <h3>Certifications</h3>
 
 <ul>
+   <li><a href="https://www.coursera.org/account/accomplishments/certificate/2WSZK9BRJMFE">
+         SQL for Data Science</a> by the University of California, Davis</li>
   <li><a href="https://www.coursera.org/account/accomplishments/certificate/UUDKHLZPKKJZ">
          Code Yourself! An Introduction to Programming</a> by the University of Edinburgh</li>
    <li><a href="https://app.welovenocode.com/certificate/?test_id=1673090047717x114568678451183620&utm_source=sharable_link&utm_medium=post&utm_campaign=posted_sm_profile">
